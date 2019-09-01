@@ -11,7 +11,6 @@ public class Armstrong_Number {
 	}
 	
 	public static void number(int n){
-		// Update this file again ---->
 		int r,sum=0,temp;
 		temp =n;
 		while(n>0){
