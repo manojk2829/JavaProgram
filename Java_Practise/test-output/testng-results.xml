@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9879" started-at="2019-07-09T18:19:14Z" finished-at="2019-07-09T18:19:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9879" started-at="2019-07-09T18:19:14Z" finished-at="2019-07-09T18:19:24Z">
+      <class name="practise_Programs.Open_Firefox_without_exe">
+        <test-method status="PASS" signature="open_Browser_Chrome()[pri:0, instance:practise_Programs.Open_Firefox_without_exe@9225652]" name="open_Browser_Chrome" duration-ms="9865" started-at="2019-07-09T23:49:14Z" finished-at="2019-07-09T23:49:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_Browser_Chrome -->
+      </class> <!-- practise_Programs.Open_Firefox_without_exe -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
